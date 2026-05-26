@@ -34,7 +34,6 @@ class ProjectHope extends StatelessWidget {
           elevation: 0,
         ),
       ),
-      home: const HomeScreen(),
     );
   }
 }
